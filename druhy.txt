@@ -5,3 +5,4 @@ druha vetev
 prvni pokusny commit rrrrrrr
 druhy pokusny commit eeeeeee
 blablabla
+opraveny commit
