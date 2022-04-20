@@ -6,3 +6,6 @@ ta taky neco dela, ale neco jineho
 oprava chyby
 }
 blabla
+tady je nova funkce {
+neco neco
+}
