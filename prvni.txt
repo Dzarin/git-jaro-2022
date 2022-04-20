@@ -1,2 +1,3 @@
-druhy
-<
+zde je nova funkce {
+ktera neco dela
+}
