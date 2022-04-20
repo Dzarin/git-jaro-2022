@@ -1,3 +1,5 @@
 druhy
 druhy radek druheho souboru
-treti radekdruha vetev
+treti radek
+druha vetev
+prvni pokusny commit rrrrrrr
